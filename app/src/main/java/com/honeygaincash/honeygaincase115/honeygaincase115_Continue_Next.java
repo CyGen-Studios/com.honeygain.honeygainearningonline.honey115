@@ -449,6 +449,7 @@ public class honeygaincase115_Continue_Next extends AppCompatActivity {
 
 
 
+
     public void ShowFullAds() {
         sharedPreferences = getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         String full = sharedPreferences.getString("full", null);
