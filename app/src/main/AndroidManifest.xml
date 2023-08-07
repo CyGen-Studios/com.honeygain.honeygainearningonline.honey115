@@ -17,43 +17,43 @@
 
 
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_Continue_Next"
+            android:name=".honeygaincase115_Continue_Next"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_DetailsActivity"
+            android:name=".honeygaincase115_DetailsActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_MainActivity2"
+            android:name=".honeygaincase115_MainActivity2"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_Continue"
+            android:name=".honeygaincase115_Continue"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_start_page"
+            android:name=".honeygaincase115_start_page"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_MainActivity"
+            android:name=".honeygaincase115_MainActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_Next"
+            android:name=".honeygaincase115_Next"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_Exit"
+            android:name=".honeygaincase115_Exit"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_Thank_you"
+            android:name=".honeygaincase115_Thank_you"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.honeygaincash.honeygaincase115.honeygaincase115_SplashActivity"
+            android:name=".honeygaincase115_SplashActivity"
             android:exported="true"
             android:screenOrientation="portrait">
             <intent-filter>
